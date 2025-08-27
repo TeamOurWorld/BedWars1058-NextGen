@@ -1,0 +1,6 @@
+name: BedWars1058-NextGen
+version: '${project.version}'
+main: org.earthstudio.bedwars1058nextgen.NextGen
+depend: [BedWars1058]
+authors: [Earth_Studio]
+description: The Last Chance to raise BedWars again.
