@@ -38,7 +38,7 @@ public class Config {
     }
 
     private static void sendSoundLog(String sound) {
-        NextGen.plugin.getLogger().log(Level.SEVERE, sound + " it's not a valid sound for your server version!");
+        NextGen.plugin.getLogger().log(Level.SEVERE, sound + " 在你的服务器版本中不是有效的音效！");
     }
 
 }
